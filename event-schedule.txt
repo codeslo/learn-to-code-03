@@ -1,0 +1,8 @@
+Coding Day Event Schedule
+
+8am - Coffee Service
+9am - Pep Talk
+10am - HTML and CSS Competition
+11am - JavaScript Coding Challenges
+12pm - Lunch
+1pm - Hackathon

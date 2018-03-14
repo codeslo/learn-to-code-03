@@ -1,0 +1,10 @@
+.floater{
+    float:left;
+    width: 300px;
+    padding-right:25px;
+}
+
+p{
+    text-align:justify;
+    width:600px;
+}

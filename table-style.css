@@ -1,0 +1,21 @@
+.container{
+    width:600px;
+    margin:0 auto;
+}
+
+.my-table{
+    margin:0 auto;
+    border:2px solid gray;
+    font-size:18px;
+}
+
+.my-table th{
+    background-color:burlywood;
+    color:white;
+}
+
+.my-table th, .my-table td{
+    text-align:center;
+    padding:5px 25px;
+    border:2px solid gray;
+}
